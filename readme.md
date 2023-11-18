@@ -35,4 +35,4 @@
 
 ## Deixe seu suporte
 
-Deixa uma ⭐️ se este projeto ajudo você!
+Deixa uma ⭐️ se este projeto ajudou você!
