@@ -18,15 +18,16 @@
 
   [Settings](./configs/settings.json)    
 
-  [Profiles][Flutter](https://vscode.dev/profile/github/32e0fb778b8078da5e7c69d97accee35)
+  ## Profiles
+  [Flutter](https://vscode.dev/profile/github/32e0fb778b8078da5e7c69d97accee35)
   
-  [Profiles][Front-end](https://vscode.dev/profile/github/2db83224b0ac8b3caf5e5cd043a3ff51)
+  [Front-end](https://vscode.dev/profile/github/2db83224b0ac8b3caf5e5cd043a3ff51)
   
-  [Profiles][Nodejs](https://vscode.dev/profile/github/fb947396ff1712a3425caa749c13900a)
+  [Nodejs](https://vscode.dev/profile/github/fb947396ff1712a3425caa749c13900a)
   
-  [Profiles][Default](https://vscode.dev/profile/github/3d0b68597e2ff5e3e0d6cd800d966ba1)
+  [Default](https://vscode.dev/profile/github/3d0b68597e2ff5e3e0d6cd800d966ba1)
   
-  [Profiles][Csharp](https://vscode.dev/profile/github/26e14209a429d29a50e79c2ad213d33d)
+  [Csharp](https://vscode.dev/profile/github/26e14209a429d29a50e79c2ad213d33d)
   
   
 
